@@ -14,11 +14,9 @@
 
 ### About
 
-I care about reliability, performance, observability, and the boring details that keep production calm.
-
-- ⌖ **Location** · Campinas, Sâo Paulo
-- ◎ **Education** · University of Campinas - Unicamp
-- ⟳ **Learning** · Distributed systems, queues, and platform engineering
+Currently a software development intern, seeking an opportunity more aligned with my professional 
+goal: working in an environment fully focused on development, where I can grow technically and earn 
+a full-time position as a Junior Developer
 
 ### Stack
 
@@ -35,7 +33,8 @@ I care about reliability, performance, observability, and the boring details tha
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="DevOps & Cloud"/>
 
 ### Languages
-- 🇬🇧 **English** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
+- **Portuguese** · ![Fluent / Native](https://img.shields.io/badge/-Native-f7c948?style=flat-square)
+- **English** · ![Intermediate - B2](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
 
 ### GitHub Stats
 
