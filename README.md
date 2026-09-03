@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gudmancio)
 
-[![Building -&gt; KNIDORO](https://img.shields.io/badge/Building%20-%3E%20KNIDORO-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/GuDMancio/knidoro)
+[![Building -&gt; KNIDORO](https://img.shields.io/badge/Building%20-%3E%20KNIDORO-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/gustadmdev/knidoro)
 
 </div>
 
@@ -40,7 +40,7 @@ a full-time position as a Junior Developer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GuDMancio&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gustadmdev&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -48,7 +48,7 @@ a full-time position as a Junior Developer
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/GuDMancio">github.com/GuDMancio</a></sub>
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/gustadmdev">github.com/gustadmdev</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt="Footer wave"/>
 
