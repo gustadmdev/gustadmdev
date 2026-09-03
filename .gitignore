@@ -1,0 +1,7 @@
+.claude/
+.vscode/
+{css,js,assets/
+test.js
+update_timeline.py
+.DS_Store
+Thumbs.db
